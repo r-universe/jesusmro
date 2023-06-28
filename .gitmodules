@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tablaxlsx"]
 	path = tablaxlsx
 	url = https://github.com/cran/tablaxlsx
-	shallow = true
-	registered = true
